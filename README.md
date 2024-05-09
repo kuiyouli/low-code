@@ -1,4 +1,5 @@
-## 被裁员失业中，如果有适合的前端岗位联系聊聊🙏，（没有岗位请不要加微信谢谢） wx：sparrow777-js
+## 被裁员失业中，如果有适合的前端或.NET、PHP岗位联系聊聊🙏，wx：dreamany，扫码：![微信二维码](https://github.com/kuiyouli/low-code/assets/747287/9b02b7e1-9f19-4311-94a8-ba9e601db23a)
+
 
 新分支，主要功能是源代码编辑和与chatgpt的结合，持续开发中感兴趣可以关注：[https://github.com/sparrow-js/sparrow/tree/sparrow-next](https://github.com/sparrow-js/sparrow/tree/sparrow-next)
 
